@@ -10,7 +10,7 @@ export const metadata: Metadata = {
     description: "Povećajte uspešnost vaših Google Ads kampanja uz stručno upravljanje, ciljanje i optimizaciju.",
     images: [
       {
-        url: "https://www.black-box-media.com/googleads.svg",
+        url: "https://www.black-box-media.com/google.svg",
         alt: "Google Ads Usluge - Black Box Media",
       },
     ],

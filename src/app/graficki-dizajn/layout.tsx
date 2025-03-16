@@ -10,7 +10,7 @@ export const metadata: Metadata = {
     description: "Kreiramo vizuelno impresivne logoe, banere, Instagram postove, vizit karte i newslettere za vaš brend. Povećajte prepoznatljivost vašeg brenda uz naše usluge grafičkog dizajna.",
     images: [
       {
-        url: "https://www.black-box-media.com/graphic.svg",
+        url: "https://www.black-box-media.com/pen-tool.svg",
         alt: "Grafički Dizajn Usluge - Black Box Media",
       },
     ],

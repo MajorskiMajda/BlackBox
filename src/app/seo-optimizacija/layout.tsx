@@ -10,7 +10,7 @@ export const metadata: Metadata = {
     description: "Povećajte vidljivost vašeg sajta u pretraživačima uz naše SEO usluge. Specijalizovani smo za tehničku SEO optimizaciju, optimizaciju sadržaja i dugoročne strategije za povećanje organskog prometa.",
     images: [
       {
-        url: "https://www.black-box-media.com/seoo.svg",
+        url: "https://www.black-box-media.com/google.svg",
         alt: "SEO Optimizacija - Black Box Media",
       },
     ],

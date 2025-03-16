@@ -10,7 +10,7 @@ export const metadata: Metadata = {
     description: "Povećajte prodaju i angažman vašeg brenda uz naše usluge Meta reklamiranja. Specijalizovani smo za upravljanje Facebook i Instagram oglasima, optimizaciju kampanja i povećanje ROI-a.",
     images: [
       {
-        url: "https://www.black-box-media.com/metaads.svg",
+        url: "https://www.black-box-media.com/meta.svg",
         alt: "Meta Reklamiranje - Black Box Media",
       },
     ],

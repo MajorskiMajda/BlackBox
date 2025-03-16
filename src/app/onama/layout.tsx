@@ -7,8 +7,15 @@ export const metadata: Metadata = {
   openGraph: {
     title: "O nama | Black Box Media - Vaš partner za marketing",
     description: "Saznajte više o Black Box Media i kako pomažemo klijentima da ostvare svoje poslovne ciljeve kroz kreativan i efektan marketing.",
+    images: [
+      {
+        url: "https://www.black-box-media.com/bulb.svg",
+        alt: "O nama - Black Box Media",
+      },
+    ],
     url: "https://www.black-box-medial/onama",
     type: "website",
+    
   },
   keywords: "marketing agencija, digitalni marketing, brending, oglašavanje, Srbija, marketing agencija, digitalni marketing, brending, oglašavanje, Srbija, marketinška strategija, marketing konsultacije, kreativna agencija, full-service marketing, SEO optimizacija, lokalni SEO, tehnički SEO, SEO strategija, SEO analiza, optimizacija sajta, ključne reči, backlinking, on-page SEO, off-page SEO, social media marketing, menadžment društvenih mreža, povećanje engagementa, Instagram strategija ", 
   authors: [{ name: "Black Box Media" }],

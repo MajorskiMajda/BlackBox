@@ -10,7 +10,7 @@ export const metadata: Metadata = {
     description: "Povećajte prodaju i angažman vašeg brenda uz naše usluge email marketinga. Specijalizovani smo za kreiranje personalizovanih email kampanja, automatske sekvence i analitiku.",
     images: [
       {
-        url: "https://www.black-box-media.com/emailm.svg",
+        url: "https://www.black-box-media.com/gmail.svg",
         alt: "Email Marketing Usluge - Black Box Media",
       },
     ],

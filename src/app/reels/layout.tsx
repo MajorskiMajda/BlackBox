@@ -10,7 +10,7 @@ export const metadata: Metadata = {
     description: "Kreiramo privlačne i angažovane Reels video reklame za vaš brend. Specijalizovani smo za produkciju UGC (User-Generated Content) Reels sadržaja koji povećava prodaju i angažman.",
     images: [
       {
-        url: "https://www.black-box-media.com/reels.svg",
+        url: "https://www.black-box-media.com/video.svg",
         alt: "Reels UGC Reklame - Black Box Media",
       },
     ],

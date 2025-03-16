@@ -10,7 +10,7 @@ export const metadata: Metadata = {
     description: "Povećajte angažman i vidljivost vašeg brenda uz naše usluge menadžmenta društvenih mreža. Specijalizovani smo za strategije, kreiranje sadržaja i analitiku za Facebook, Instagram, LinkedIn i TikTok.",
     images: [
       {
-        url: "https://www.black-box-media.com/smm.svg",
+        url: "https://www.black-box-media.com/instagram.svg",
         alt: "Menadžment Društvenih Mreža - Black Box Media",
       },
     ],

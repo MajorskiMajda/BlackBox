@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Izrada Web Sajtova",
     description: "Profesionalna izrada modernih i funkcionalnih custom web sajtova posebno prilagođenih Vašem brendu i potrebama. Kreiramo responzivne i optimizovane sajtove koji unapređuju vaše online prisustvo uz Black Box Media.",
-    images: "https://www.black-box-media.com/webdev.svg",
+    images: "https://www.black-box-media.com/domain.svg",
     url: "https://www.black-box-media.com/izrada-sajtova",
     type: "website",
   },
