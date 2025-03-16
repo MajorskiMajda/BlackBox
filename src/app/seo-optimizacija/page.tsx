@@ -25,7 +25,7 @@ export default function MainPage() {
                 hideImageOnMobile={false}
                 textSizeClass="lg:text-6xl text-5xl "
                 opis=""
-                subH="Budite prvi tamo gde vas kupci traže! Precizno ciljanim SEO strategijama povećavamo vidljivost vašeg brenda, dovodimo prave posetioce i pretvaramo ih u lojalne kupce – dok vi gledate kako vaš biznis raste!"
+                subH="Budite prvi tamo gde vas kupci traže! Precizno ciljanim SEO strategijama povećavamo vidljivost vašeg brenda, dovodimo prave posetioce i pretvaramo ih u lojalne kupce, dok vi gledate kako vaš biznis raste!"
                 text="Stručna SEO optimizacija za maksimalne rezultate!"
                 className="lg:order-first md:order-first"
             />
