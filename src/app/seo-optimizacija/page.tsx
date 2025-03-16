@@ -25,11 +25,11 @@ export default function MainPage() {
                 hideImageOnMobile={false}
                 textSizeClass="lg:text-6xl text-5xl "
                 opis=""
-                subH="Sa SEO-om, Vaš brend postaje vidljiv tamo gde Vas ljudi traže, privlači posetioce koji žele upravo ono što nudite i pretvara ih u verne kupce zahvaljujući optimizaciji koja radi za Vas."
-                text="SEO Optimizacija"
+                subH="Budite prvi tamo gde vas kupci traže! Precizno ciljanim SEO strategijama povećavamo vidljivost vašeg brenda, dovodimo prave posetioce i pretvaramo ih u lojalne kupce – dok vi gledate kako vaš biznis raste!"
+                text="Stručna SEO optimizacija za maksimalne rezultate!"
                 className="lg:order-first md:order-first"
             />
-             <Info
+            <Info
                 cardContents={cardContents}
                 howWeDoTitle={howWeDo.title}
                 howWeDoDescription={howWeDo.description}

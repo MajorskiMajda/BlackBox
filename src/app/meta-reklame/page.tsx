@@ -25,11 +25,11 @@ export default function MainPage() {
                 hideImageOnMobile={false}
                 textSizeClass="lg:text-6xl text-5xl"
                 opis=""
-                subH="Ako ste spremni da vaš brend podignete na viši nivo, kontaktirajte nas kako bismo započeli s vašom sljedećom uspješnom kampanjom!"
-                text="Meta Reklame"
+                subH="Želite više klijenata i veći profit? Kontaktirajte nas danas i zajedno ćemo kreirati kampanju koja će vaš brend podići na potpuno novi nivo!"
+                text="Meta Reklame koje donose rezultate!"
                 className="lg:order-first md:order-first"
             />
-             <Info
+            <Info
                 cardContents={cardContents}
                 howWeDoTitle={howWeDo.title}
                 howWeDoDescription={howWeDo.description}
@@ -38,7 +38,7 @@ export default function MainPage() {
                 keyContent={keyContent}
                 whatWeDoList={whatWeDoList}
             />
-     
+
             <Contact variant="services" />
             <Footer />
         </div>

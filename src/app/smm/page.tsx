@@ -27,11 +27,11 @@ export default function MainPage() {
                 hideImageOnMobile={false}
                 textSizeClass="lg:text-6xl text-5xl"
                 opis=""
-                subH="Kreiramo i vodimo vaše profile na društvenim mrežama – od dizajna i objava do odgovora na poruke."
-                text="Menadzment Drustvenih Mreza"
+                subH="Pretvorite svoje društvene mreže u moćan alat za rast! Kreiramo vizuelno privlačan sadržaj, upravljamo objavama i komuniciramo s vašom publikom kako bismo izgradili snažan brend i povećali angažman."
+                text="Profesionalni menadžment društvenih mreža za maksimalan uticaj!"
                 className="lg:order-first md:order-first"
             />
-             <Info
+            <Info
                 cardContents={cardContents}
                 howWeDoTitle={howWeDo.title}
                 howWeDoDescription={howWeDo.description}

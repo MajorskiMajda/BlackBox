@@ -25,8 +25,8 @@ export default function MainPage() {
                 hideImageOnMobile={false}
                 textSizeClass="lg:text-6xl text-5xl "
                 opis=""
-                subH="Uz smеле dizajne, pametan pristup i besprekornu funkcionalnost, Vaš web sajt će privući gomile, osvojiti klijente i vinuti Vaš uspeh u visine. Jer sjajni sajtovi se ne samo prave – oni su Vaša karta za online dominaciju!"
-                text="Pokrenite Savršen Web Sajt"
+                subH="Uz vrhunski dizajn, pametan koncept i upečatljive vizuale, Vaš brend će privući pažnju, osvojiti klijente i eksplozivno unaprediti Vaše poslovanje, jer sjajan grafički dizajn je Vaš ključ za tržišni uspeh!"
+                text="Podignite Brend sa Grafičkim Dizajnom"
                 className="lg:order-first md:order-first"
             />
             <Info

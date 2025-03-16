@@ -25,8 +25,8 @@ export default function MainPage() {
                 hideImageOnMobile={false}
                 textSizeClass="lg:text-6xl text-5xl"
                 opis=""
-                subH=""
-                text="Izrada Web Sajtova"
+                subH="Uz vrhunski dizajn, pametnu strategiju i besprekorne performanse, Vaš web sajt će privući mase, pretvoriti ih u klijente i eksplozivno podići Vaše poslovanje, jer savršen sajt je Vaš ključ za online uspeh!"
+                text="Pokrenite Savršen Web Sajt"
                 className="lg:order-first md:order-first"
             />
             <Info

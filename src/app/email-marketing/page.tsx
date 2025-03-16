@@ -24,8 +24,8 @@ export default function MainPage() {
                 hideImageOnMobile={false}
                 textSizeClass="lg:text-6xl text-5xl"
                 opis=""
-                subH="Gradite jače veze s klijentima uz personalizovani email marketing i strateški osmišljen outreach koji donosi rezultate"
-                text="Email Marketing I Outreach"
+                subH="Eksplozivno povećajte prodaju uz personalizovane email kampanje i genijalan outreach koji pretvara kontakte u klijente, Vaš biznis će rasti brže nego ikad!"
+                text="Utrostručite Profit Email Marketingom"
                 className="lg:order-first md:order-first"
             />
             <Info

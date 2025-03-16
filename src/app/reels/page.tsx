@@ -14,7 +14,7 @@ export default function MainPage() {
     return (
         <div className="">
             <Nav />
-            <Main        
+            <Main
                 priority={true}
                 image="/videoe.svg"
                 gap="gap-0"
@@ -24,11 +24,11 @@ export default function MainPage() {
                 hideImageOnMobile={false}
                 textSizeClass="lg:text-6xl text-5xl"
                 opis=""
-                subH="Uz kreativne koncepte, pametnu strategiju i neodoljive video sadržaje, Vaše Reels reklame će osvojiti publiku, podići angažman i eksplozivno povećati prodaju. Jer vrhunski Reels nisu samo klipovi, oni su Vaš put do dominacije na mrežama!"
-                text="Izrada Reels (UGC) Video Reklama"
+                subH="Uz moćne Reels reklame koje kombinuju kreativnost, strategiju i vrhunski video sadržaj, vaša publika neće moći da skrene pogled! Povećajte angažman, izgradite prepoznatljivost i pretvorite preglede u prodaju, dominirajte društvenim mrežama!"
+                text="Profesionalna izrada Reels (UGC) video reklama koje prodaju!"
                 className="lg:order-first md:order-first"
             />
-             <Info
+            <Info
                 cardContents={cardContents}
                 howWeDoTitle={howWeDo.title}
                 howWeDoDescription={howWeDo.description}
