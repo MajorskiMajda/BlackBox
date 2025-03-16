@@ -24,7 +24,7 @@ export default function MainPage() {
                 hideImageOnMobile={false}
                 textSizeClass="lg:text-6xl text-5xl"
                 opis=""
-                subH=""
+                subH="Uz kreativne koncepte, pametnu strategiju i neodoljive video sadržaje, Vaše Reels reklame će osvojiti publiku, podići angažman i eksplozivno povećati prodaju. Jer vrhunski Reels nisu samo klipovi, oni su Vaš put do dominacije na mrežama!"
                 text="Izrada Reels (UGC) Video Reklama"
                 className="lg:order-first md:order-first"
             />
